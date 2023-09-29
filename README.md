@@ -1,5 +1,3 @@
-Certainly, you can create a shorter README if you prefer a more concise overview. Here's a shorter version:
-
 # Project README
 
 ## Student Sucess in Higher Education
