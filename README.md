@@ -1,5 +1,3 @@
-# Project README
-
 ## Student Sucess in Higher Education
 
 Predicting Student Dropout and Academic Success
